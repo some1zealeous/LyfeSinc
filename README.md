@@ -1,2 +1,2 @@
 # LifeSync
-A simple habit manager project to learn Git and GitKraken #🦑.
+A simple habit manager project to learn Git and GitKraken🦑.
