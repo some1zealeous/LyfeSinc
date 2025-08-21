@@ -1,3 +1,4 @@
 *.log
 temp/
 lifesync-backend/serviceAccountKey.json
+.env
